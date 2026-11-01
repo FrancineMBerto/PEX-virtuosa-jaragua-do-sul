@@ -1,0 +1,5 @@
+# Virtuosa Estética - Unidade Jaraguá do Sul
+User-agent: *
+Allow: /
+
+Sitemap: https://virtuosa-jaragua.com.br/sitemap.xml
